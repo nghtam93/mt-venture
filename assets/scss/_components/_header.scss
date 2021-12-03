@@ -68,7 +68,12 @@ body.home{
 	}
 
 	@media (max-width: 575px){
-
+		.logo{
+			padding: 10px 0;
+		}
+		&.is-active .logo {
+		    padding: 10px 0;
+		}
 	}
 }
 @keyframes stuckMoveDown{

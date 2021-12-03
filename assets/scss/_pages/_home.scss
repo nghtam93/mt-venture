@@ -525,10 +525,19 @@
         }
     }
     @media (max-width: 991px){
-        &-banner__circle {
-            top: 16%;
-            right: 0;
+        &-banner {
+            background-image: url(../img/home-banner-bg-tablet.jpg);
+            min-height: 300px;
+            padding-bottom: 53%;
+            &:after{
+                display: none;
+            }
+            &__circle {
+                display: none;
+            }
+
         }
+
         &-mission{
             padding: 250px 0 80px;
             .el__thumb{
@@ -563,20 +572,8 @@
     @media (max-width: 767px){
 
         &-banner{
-            min-height: 500px;
-            &:after {
-                content: '';
-                position: absolute;
-                bottom: -7%;
-            }
-            &__circle {
-                top: 22%;
-                right: -1%;
-            }
-            .circle {
-                width: 500px;
-                height: 500px;
-            }
+            padding-bottom: 80%;
+            background-position: 60%;
             .el__title {
                 font-size: 44px;
                 line-height: 56px;
@@ -603,45 +600,14 @@
             }
         }
     }
-    @media (max-width: 699px){
-        &-banner{
-            &__circle {
-                top: 25%;
-                right: -5%;
-            }
-        }
-    }
-    @media (max-width: 649px){
-        &-banner{
-            &__circle {
-                right: -12%;
-            }
-        }
-    }
     @media (max-width: 575px){
         &-banner{
-            background-size: 100% 100%;
-            padding-bottom: 227%;
-            &:after {
-                background-image: url(../img/home-banner-bg-bottom-mb.png);
-                background-size: cover;
-                bottom: -17%;
-                height: 67%;
-
-            }
+            padding-bottom: 267%;
+            background-image: url(../img/home-banner-bg-mb.jpg);
             .el__meta {
                 top: 15%;
             }
-            .circle {
-                width: 550px;
-                height: 550px;
-            }
 
-            &__circle {
-                top: 36%;
-                left: -13%;
-                right: auto;
-            }
             .el__title {
                 font-size: 36px;
                 line-height: 46px;
@@ -653,6 +619,10 @@
                 margin-top: 30px;
             }
 
+        }
+        &-about {
+            background: none;
+            margin-top: -80px;
         }
         &-mission{
             &__tab{
@@ -693,21 +663,6 @@
             }
         }
     }
-    @media (max-width: 499px){
-        &-banner{
-            &__circle {
-                top: 30%;
-                left: -24%;
-                right: auto;
-            }
-        }
-    }
-    @media (max-width: 399px){
-        &-banner{
-            &__circle {
-                top: 32%;
-                left: -25%;
-            }
-        }
-    }
+
+
 }
