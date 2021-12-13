@@ -1,0 +1,273 @@
+{
+    "RPT": {
+        "ScanTime": "7.237 sec.",
+        "ScanFile": "20211205_metatrend_6b57885d21540f4c4073_20211205040019_scan.json",
+        "ScanCreated": "2021-12-05 04:00:28",
+        "ScanPath": "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/backups-dup-pro\/tmp\/20211205_metatrend_6b57885d21540f4c4073_20211205040019_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": true,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "122.41MB",
+        "DirCount": "869",
+        "FileCount": "6,096",
+        "FullCount": "6,965",
+        "USize": 128353580,
+        "UDirCount": 869,
+        "UFileCount": 6096,
+        "UFullCount": 6965,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/.opcache",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/.tmb",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/ai1wm-backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/backups-dup-pro",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/backups-dup-pro",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/backupwordpress",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/cache",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/content\/cache",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/contents\/cache",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/infinitewp\/backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/managewp\/backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/old-cache",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/plugins\/wordfence\/tmp",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/updraft",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/aiowps_backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/backup-guard",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/backupbuddy_backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/backupbuddy_temp",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/ithemes-security\/backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/mainwp\/backup",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/pb_backupbuddy",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/snapshots",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/sucuri",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/wp-clone",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/wp_all_backup",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/uploads\/wpbackitup_backups",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/wfcache",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-content\/wishlist-backup",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/.htaccess",
+            "D:\/xampp\/htdocs\/wp\/mt-venture\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "2.84MB",
+        "Rows": "1,741",
+        "TableCount": 25,
+        "TableList": {
+            "wpz_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wpz_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wpz_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_newsletter": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_newsletter_emails": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpz_newsletter_sent": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_newsletter_stats": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_newsletter_user_logs": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpz_options": {
+                "Case": 0,
+                "Rows": "259",
+                "Size": "1.13MB",
+                "USize": 1179648
+            },
+            "wpz_postmeta": {
+                "Case": 0,
+                "Rows": "905",
+                "Size": "288KB",
+                "USize": 294912
+            },
+            "wpz_posts": {
+                "Case": 0,
+                "Rows": "252",
+                "Size": "480KB",
+                "USize": 491520
+            },
+            "wpz_rank_math_internal_links": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_rank_math_internal_meta": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpz_term_relationships": {
+                "Case": 0,
+                "Rows": "233",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpz_term_taxonomy": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_terms": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_usermeta": {
+                "Case": 0,
+                "Rows": "34",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpz_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            }
+        }
+    },
+    "Status": 1
+}
